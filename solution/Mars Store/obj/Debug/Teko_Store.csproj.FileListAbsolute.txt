@@ -1,0 +1,335 @@
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Mars_Store.dll.config
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Mars_Store.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Mars_Store.pdb
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Antlr3.Runtime.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\EntityFramework.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\EntityFramework.SqlServer.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\LinqKit.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.Security.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Newtonsoft.Json.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Owin.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\PagedList.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\PagedList.Mvc.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\SkyLinq.Linq.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\System.Linq.Dynamic.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\System.Web.Helpers.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\System.Web.Mvc.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\System.Web.Optimization.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\System.Web.Razor.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\System.Web.WebPages.Deployment.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\System.Web.WebPages.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\System.Web.WebPages.Razor.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\WebGrease.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Antlr3.Runtime.pdb
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\EntityFramework.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\EntityFramework.SqlServer.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\LinqKit.pdb
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\LinqKit.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\LinqKit.dll.config
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.Security.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\Newtonsoft.Json.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\PagedList.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\PagedList.Mvc.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\System.Web.Helpers.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\System.Web.Mvc.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\System.Web.Optimization.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\System.Web.Razor.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\System.Web.WebPages.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\System.Web.WebPages.Deployment.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\bin\System.Web.WebPages.Razor.xml
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\obj\Debug\Teko_Store.csprojAssemblyReference.cache
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\obj\Debug\Teko_Store.csproj.CoreCompileInputs.cache
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\obj\Debug\Teko_Store.csproj.CopyComplete
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\obj\Debug\Mars_Store.dll
+C:\Users\h\Desktop\DAI HOC\ki2 - nam 4\CN Web\NHOM14_CNW\TEKO STORE\Mars Store\obj\Debug\Mars_Store.pdb
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Mars_Store.dll.config
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Mars_Store.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Mars_Store.pdb
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Antlr3.Runtime.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\EntityFramework.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\EntityFramework.SqlServer.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\LinqKit.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.Google.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Web.Infrastructure.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Newtonsoft.Json.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Owin.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\PagedList.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\PagedList.Mvc.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\SkyLinq.Linq.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Linq.Dynamic.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.Helpers.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.Mvc.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.Optimization.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.Razor.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.WebPages.Deployment.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.WebPages.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.WebPages.Razor.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\WebGrease.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Antlr3.Runtime.pdb
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\EntityFramework.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\EntityFramework.SqlServer.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\LinqKit.pdb
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\LinqKit.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\LinqKit.dll.config
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.Google.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Newtonsoft.Json.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\PagedList.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\PagedList.Mvc.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.Helpers.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.Mvc.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.Optimization.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.Razor.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.WebPages.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.WebPages.Deployment.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.WebPages.Razor.xml
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\obj\Debug\Teko_Store.csprojAssemblyReference.cache
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\obj\Debug\Teko_Store.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\obj\Debug\Teko_Store.csproj.CopyComplete
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\obj\Debug\Mars_Store.dll
+D:\Tai Lieu\Cong nghe Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\obj\Debug\Mars_Store.pdb
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Mars_Store.dll.config
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Mars_Store.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Mars_Store.pdb
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Antlr3.Runtime.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\EntityFramework.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\EntityFramework.SqlServer.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\LinqKit.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.Google.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Web.Infrastructure.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Newtonsoft.Json.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Owin.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\PagedList.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\PagedList.Mvc.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\SkyLinq.Linq.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Linq.Dynamic.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.Helpers.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.Mvc.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.Optimization.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.Razor.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.WebPages.Deployment.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.WebPages.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.WebPages.Razor.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\WebGrease.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Antlr3.Runtime.pdb
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\EntityFramework.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\EntityFramework.SqlServer.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\LinqKit.pdb
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\LinqKit.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\LinqKit.dll.config
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.Google.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\Newtonsoft.Json.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\PagedList.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\PagedList.Mvc.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.Helpers.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.Mvc.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.Optimization.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.Razor.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.WebPages.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.WebPages.Deployment.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\bin\System.Web.WebPages.Razor.xml
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\obj\Debug\Teko_Store.csprojAssemblyReference.cache
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\obj\Debug\Teko_Store.csproj.CoreCompileInputs.cache
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\obj\Debug\Teko_Store.csproj.CopyComplete
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\obj\Debug\Mars_Store.dll
+D:\Web\NHOM14_CNW\NHOM14_CNW\TEKO STORE_CNW_N14\Mars Store\obj\Debug\Mars_Store.pdb
+D:\Freelancer\FML\Mars Store\obj\Debug\Teko_Store.csproj.CoreCompileInputs.cache
+D:\Freelancer\FML\Mars Store\obj\Debug\Mars_Store.dll
+D:\Freelancer\FML\Mars Store\obj\Debug\Mars_Store.pdb
+D:\Freelancer\FML\Mars Store\bin\Mars_Store.dll.config
+D:\Freelancer\FML\Mars Store\bin\Mars_Store.dll
+D:\Freelancer\FML\Mars Store\bin\Mars_Store.pdb
+D:\Freelancer\FML\Mars Store\bin\Antlr3.Runtime.dll
+D:\Freelancer\FML\Mars Store\bin\EntityFramework.dll
+D:\Freelancer\FML\Mars Store\bin\EntityFramework.SqlServer.dll
+D:\Freelancer\FML\Mars Store\bin\LinqKit.dll
+D:\Freelancer\FML\Mars Store\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Freelancer\FML\Mars Store\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Freelancer\FML\Mars Store\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.dll
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.Security.dll
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.Security.Google.dll
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Web.Infrastructure.dll
+D:\Freelancer\FML\Mars Store\bin\Newtonsoft.Json.dll
+D:\Freelancer\FML\Mars Store\bin\Owin.dll
+D:\Freelancer\FML\Mars Store\bin\PagedList.dll
+D:\Freelancer\FML\Mars Store\bin\PagedList.Mvc.dll
+D:\Freelancer\FML\Mars Store\bin\SkyLinq.Linq.dll
+D:\Freelancer\FML\Mars Store\bin\System.Linq.Dynamic.dll
+D:\Freelancer\FML\Mars Store\bin\System.Web.Helpers.dll
+D:\Freelancer\FML\Mars Store\bin\System.Web.Mvc.dll
+D:\Freelancer\FML\Mars Store\bin\System.Web.Optimization.dll
+D:\Freelancer\FML\Mars Store\bin\System.Web.Razor.dll
+D:\Freelancer\FML\Mars Store\bin\System.Web.WebPages.Deployment.dll
+D:\Freelancer\FML\Mars Store\bin\System.Web.WebPages.dll
+D:\Freelancer\FML\Mars Store\bin\System.Web.WebPages.Razor.dll
+D:\Freelancer\FML\Mars Store\bin\WebGrease.dll
+D:\Freelancer\FML\Mars Store\bin\Antlr3.Runtime.pdb
+D:\Freelancer\FML\Mars Store\bin\EntityFramework.xml
+D:\Freelancer\FML\Mars Store\bin\EntityFramework.SqlServer.xml
+D:\Freelancer\FML\Mars Store\bin\LinqKit.pdb
+D:\Freelancer\FML\Mars Store\bin\LinqKit.xml
+D:\Freelancer\FML\Mars Store\bin\LinqKit.dll.config
+D:\Freelancer\FML\Mars Store\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Freelancer\FML\Mars Store\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Freelancer\FML\Mars Store\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.xml
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.Security.xml
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.Security.Google.xml
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Freelancer\FML\Mars Store\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Freelancer\FML\Mars Store\bin\Newtonsoft.Json.xml
+D:\Freelancer\FML\Mars Store\bin\PagedList.xml
+D:\Freelancer\FML\Mars Store\bin\PagedList.Mvc.xml
+D:\Freelancer\FML\Mars Store\bin\System.Web.Helpers.xml
+D:\Freelancer\FML\Mars Store\bin\System.Web.Mvc.xml
+D:\Freelancer\FML\Mars Store\bin\System.Web.Optimization.xml
+D:\Freelancer\FML\Mars Store\bin\System.Web.Razor.xml
+D:\Freelancer\FML\Mars Store\bin\System.Web.WebPages.xml
+D:\Freelancer\FML\Mars Store\bin\System.Web.WebPages.Deployment.xml
+D:\Freelancer\FML\Mars Store\bin\System.Web.WebPages.Razor.xml
+D:\Freelancer\FML\Mars Store\obj\Debug\Teko_Store.csproj.CopyComplete
+D:\Freelancer\FML\Mars Store\obj\Debug\Teko_Store.csprojAssemblyReference.cache
+D:\GIT_fml\GIT\solution\Mars Store\bin\Mars_Store.dll.config
+D:\GIT_fml\GIT\solution\Mars Store\bin\Mars_Store.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\Mars_Store.pdb
+D:\GIT_fml\GIT\solution\Mars Store\bin\Antlr3.Runtime.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\EntityFramework.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\EntityFramework.SqlServer.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\LinqKit.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.Security.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.Security.Google.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Web.Infrastructure.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\Newtonsoft.Json.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\Owin.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\PagedList.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\PagedList.Mvc.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\SkyLinq.Linq.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\System.Linq.Dynamic.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\System.Web.Helpers.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\System.Web.Mvc.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\System.Web.Optimization.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\System.Web.Razor.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\System.Web.WebPages.Deployment.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\System.Web.WebPages.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\System.Web.WebPages.Razor.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\WebGrease.dll
+D:\GIT_fml\GIT\solution\Mars Store\bin\Antlr3.Runtime.pdb
+D:\GIT_fml\GIT\solution\Mars Store\bin\EntityFramework.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\EntityFramework.SqlServer.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\LinqKit.pdb
+D:\GIT_fml\GIT\solution\Mars Store\bin\LinqKit.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\LinqKit.dll.config
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.Security.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.Security.Google.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\Newtonsoft.Json.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\PagedList.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\PagedList.Mvc.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\System.Web.Helpers.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\System.Web.Mvc.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\System.Web.Optimization.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\System.Web.Razor.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\System.Web.WebPages.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\System.Web.WebPages.Deployment.xml
+D:\GIT_fml\GIT\solution\Mars Store\bin\System.Web.WebPages.Razor.xml
+D:\GIT_fml\GIT\solution\Mars Store\obj\Debug\Teko_Store.csprojAssemblyReference.cache
+D:\GIT_fml\GIT\solution\Mars Store\obj\Debug\Teko_Store.csproj.CoreCompileInputs.cache
+D:\GIT_fml\GIT\solution\Mars Store\obj\Debug\Teko_Store.csproj.CopyComplete
+D:\GIT_fml\GIT\solution\Mars Store\obj\Debug\Mars_Store.dll
+D:\GIT_fml\GIT\solution\Mars Store\obj\Debug\Mars_Store.pdb

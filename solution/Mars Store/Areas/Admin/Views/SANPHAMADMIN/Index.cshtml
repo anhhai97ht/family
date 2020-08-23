@@ -1,0 +1,60 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model PagedList.PagedList<Mars_Store.Models.Entities.SANPHAM>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<!DOCTYPE html>
+
+<h4>
+    @Html.ActionLink("THÊM SẢN PHẨM MỚI", "Create")
+</h4>
+<br />
+<table class="table table-bordered text-center">
+    <tr>
+        <th class="text-center">
+            TÊN SẢN PHẨM
+        </th>
+        <th class="text-center">
+            GIÁ
+        </th>
+        <th class="text-center">
+            KHỐI LƯỢNG
+        </th>
+        <th class="text-center">
+            ẢNH
+        </th>
+        <th class="text-center">
+            MÔ TẢ
+        </th>
+        <th class="text-center">
+            THAO TÁC
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.tensanpham)</td>
+            <td>@Html.DisplayFor(modelItem => item.giabd)</td>
+            <td>@Html.DisplayFor(modelItem => item.trongluong)</td>
+            <td><div><img src="@Url.Content("~/Content/images/"+item.ImgLink)" width="110" height="110"></div></td>
+            <td>@Html.DisplayFor(modelItem => item.mota)</td>
+            <td>
+                @Html.ActionLink("SỬA", "Edit", new { id = item.ID_SP }) |<br />
+                @Html.ActionLink("XÓA", "Delete", new { id = item.ID_SP })
+            </td>
+        </tr>
+    }
+</table>
+@*Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount*@
+<div class="menu-trang">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+</div>
+<style>
+    .menu-trang li {
+        display: inline;
+    }
+</style>

@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Mars_Store.Models.Entities.TINTUC>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NHOMTIN.tennhomtin)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.tentin)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ImgTin)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.mota)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NHOMTIN.tennhomtin)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.tentin)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ImgTin)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.mota)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID_TIN }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID_TIN }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID_TIN })
+        </td>
+    </tr>
+}
+
+</table>
